@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800px" src="https://github.com/user-attachments/assets/8d3b51f1-dfb7-4bbd-b58c-b4a45cf9ad49" />
+  <src="https://github.com/user-attachments/assets/8d3b51f1-dfb7-4bbd-b58c-b4a45cf9ad49" />
 </div>
 
 ![Yoonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj0331yj&show_icons=true&theme=radical)
@@ -19,21 +19,26 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />&nbsp 
   <img src="https://img.shields.io/badge/-Logstash-A9A9A9?logo=Logstash&logoColor=005571" />&nbsp 
-  <img src="https://img.shields.io/badge/Kibana-005571?&style=plastic&logo=Kibana&logoColor=white" />&nbsp 
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Kibana-005571?&style=plastic&logo=Kibana&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">📚 Studying - Frameworks 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" />&nbsp
+  <img src="" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">📚 Studying - Database 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp 
 </div>
 
@@ -58,7 +63,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/miricanvas-03C75A.svg?style=for-the-badge&logo=canvas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+  <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
 </div>
