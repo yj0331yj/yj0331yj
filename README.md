@@ -6,11 +6,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj0331yj)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
-<h5 align="center">✨ Programing Languages ✨</h5>
+<h5 align="center">🐾 Programing Languages 🐾</h5>
 <div align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 
-<h5 align="center">✨ DevOps ✨</h5>
+<h3 align="center">📚 Studying - DevOps 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
@@ -24,7 +24,7 @@
 
 <br>
 
-<h5 align="center">🛠 Database Tools 🛠</h5>
+<h3 align="center">📚 Studying - Database 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp 
