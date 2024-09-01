@@ -14,12 +14,15 @@
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />&nbsp 
   <img src="https://img.shields.io/badge/-Logstash-A9A9A9?logo=Logstash&logoColor=005571" />&nbsp 
   <img src="https://img.shields.io/badge/Kibana-005571?&style=plastic&logo=Kibana&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -33,7 +36,7 @@
 
 <br>
 
-<h5 align="center">✨ Environment ✨</h5>
+<h3 align="center">✨ Environment ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />&nbsp 
