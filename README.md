@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="600px" src="https://github.com/user-attachments/assets/8d3b51f1-dfb7-4bbd-b58c-b4a45cf9ad49" />
+  <img width="800px" src="https://github.com/user-attachments/assets/8d3b51f1-dfb7-4bbd-b58c-b4a45cf9ad49" />
 </div>
 
 ![Yoonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj0331yj&show_icons=true&theme=radical)
@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" />&nbsp
-  <img src="" />&nbsp
 </div>
 
 <br>
