@@ -1,5 +1,5 @@
 <div align="center">
-  <src="https://github.com/user-attachments/assets/8d3b51f1-dfb7-4bbd-b58c-b4a45cf9ad49" />
+  <img width="600px" src="https://github.com/user-attachments/assets/8d3b51f1-dfb7-4bbd-b58c-b4a45cf9ad49" />
 </div>
 
 ![Yoonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj0331yj&show_icons=true&theme=radical)
