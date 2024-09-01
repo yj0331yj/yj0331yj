@@ -31,7 +31,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp 
-  <img src="https://img.shields.io/badge/dbeaver-382923?style=flat&logo=dbeaver&logoColor=white" />&nbsp 
 </div>
 
 <br>
@@ -48,6 +47,7 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/dbeaver-382923?style=flat&logo=dbeaver&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
