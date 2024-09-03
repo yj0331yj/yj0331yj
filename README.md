@@ -1,4 +1,7 @@
-![welcometoyoonjinsgithub](https://github.com/user-attachments/assets/b3b67342-e204-4c65-8134-773546dd9724)
+<div align="center">
+<img width="600px" src="https://github.com/user-attachments/assets/b3b67342-e204-4c65-8134-773546dd9724" />&nbsp
+</div>
+
 ![Yoonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj0331yj&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj0331yj)
 
