@@ -1,4 +1,4 @@
-![|400][welcometoyoonjinsgithub](https://github.com/user-attachments/assets/b3b67342-e204-4c65-8134-773546dd9724)
+![600][welcometoyoonjinsgithub](https://github.com/user-attachments/assets/b3b67342-e204-4c65-8134-773546dd9724)
 ![Yoonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj0331yj&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj0331yj)
 
