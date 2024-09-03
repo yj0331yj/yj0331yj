@@ -2,6 +2,7 @@
 <img width="700px" src="https://github.com/user-attachments/assets/b3b67342-e204-4c65-8134-773546dd9724" />&nbsp
 </div>
 
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yj0331yj&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yj0331yj&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yj0331yj&theme=radical)
